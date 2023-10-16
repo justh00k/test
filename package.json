@@ -4,7 +4,8 @@
   "description": "",
   "main": "something.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "branches": "git log --graph --pretty=oneline --abbrev-commit --all --decorate"
   },
   "author": "",
   "license": "ISC"
