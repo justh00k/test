@@ -1,3 +1,2 @@
-import { a } from './something.js'
-
+let a = '555'
 console.log(a)
